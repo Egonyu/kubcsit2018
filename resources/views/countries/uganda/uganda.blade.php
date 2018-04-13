@@ -89,7 +89,7 @@
 								</article>
 								<article>
 									<header>
-										<h2><a href="/daniel">Egonyu Daniel</a></h2>
+										<h2><a href="https://danielegonyu.com">Egonyu Daniel</a></h2>
 									</header>
 									<a href="/daniel" class="image fit"><img src="images/daniel.jpeg" alt="" style="height: 300px; width: 300px" /></a>
 									<p>Bsc Computer Science and Information Technology, Kampala University 2018</p>
